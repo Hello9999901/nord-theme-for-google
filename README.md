@@ -8,8 +8,7 @@
 
 ### Features -
  - Preferences inside CSS
- - Pure CSS, no JS
- - Only one file
+ - Animate.css integration
  - Hackable
  - Variable color based
  - Open Source
@@ -18,6 +17,7 @@
 ### Caveats - 
  - Only works on desktop so far
  - Performance may drop, though by a small margin
+ - One extra color added by me called `nordRare`, a lighter shade of `nord3`
 
 ## Images
 Add images here
