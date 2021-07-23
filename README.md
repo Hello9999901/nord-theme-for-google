@@ -1,4 +1,6 @@
-# Nord Theme for Google - Designed and Created by Hello9999901
+# Nord Theme for Google Search - Designed and Created by Hello9999901
+
+# Yes, Google Search, not Chrome
 
 ### This is a singular css file that injects a nord theme on the client side of google.
 
