@@ -443,6 +443,11 @@ center input {
   background: var(--nord0) !important;
 }
 
+/* Patch -- Background for the settings, Google apps and Account image */
+.cG5GOd {
+  background: var(--nord0) !important;
+}
+
 /* Area underneath search field */
 .yg51vc {
   background: var(--nord0) !important;
@@ -477,6 +482,24 @@ center input {
 
 /* Change description color of descriptions */
 .yDYNvb.lyLwlc {
+  color: var(--nord4) !important;
+}
+
+/* Date */
+.uo4vr {
+  color: var(--nord9) !important;
+}
+
+/* Lists */
+/* List titles */
+.NwNzde th,
+.uqAUkb {
+  color: var(--nord5) !important;
+}
+
+/* List content text */
+.GELlw,
+.IsZvec {
   color: var(--nord4) !important;
 }
 
@@ -774,6 +797,7 @@ svg {
 .eQ47Fc:hover {
   background: var(--nord2) !important;
 }
+
 /* Dropdown arrow */
 .AGLhIc {
   background: var(--nord1) !important;
@@ -792,7 +816,8 @@ svg {
 }
 
 /* Name of video */
-.v3KRMc.mBswFe, #text {
+.v3KRMc.mBswFe,
+#text {
   color: var(--nord4) !important;
 }
 
@@ -842,7 +867,9 @@ svg {
 }
 
 /* Change speaker icon color */
-.pkt1Wd.fjnQw, .pkt1Wd.nIW5Sd, .pkt1Wd.byDyWd {
+.pkt1Wd.fjnQw,
+.pkt1Wd.nIW5Sd,
+.pkt1Wd.byDyWd {
   filter: invert(68%) sepia(11%) saturate(1047%) hue-rotate(169deg) brightness(91%) contrast(84%);
 }
 
@@ -888,6 +915,184 @@ svg {
 
 /* ANCHOR Left info (mostly wikipedia) column */
 /* Change border color */
-.TQc1id .I6TXqe, .HsZQAe, .wwfboe, .VjDLd .cLjAic:not(:last-child) .mFVw3b {
+.TQc1id .I6TXqe,
+.HsZQAe,
+.wwfboe,
+.zmYuj,
+.jA1nid,
+.VjDLd .cLjAic:not(:last-child) .mFVw3b {
   border-color: var(--nord3) !important;
+}
+
+/* Change review colors */
+/* "Google users" */
+.OZ8wsd {
+  color: var(--nord4) !important;
+}
+
+/* Rating */
+.xt8Uw {
+  color: var(--nord5) !important;
+}
+
+/* Rating count */
+.ZgdoBb {
+  color: var(--nord8) !important;
+}
+
+/* Rating number count */
+.uVGhGc {
+  background: var(--nord2) !important;
+}
+
+/* Date of item under "People also search for" */
+.xlBGCb {
+  color: var(--nord9) !important;
+}
+
+/* ANCHOR "Track your package" */
+/* Main panel */
+.cUezCb {
+  background: var(--nord0) !important;
+  border-color: var(--nord1) !important;
+}
+
+/* Center Border */
+.cUezCb hr {
+  border-color: var(--nord1) !important;
+}
+
+/* Title Text */
+.a9v0ne,
+.a9v0ne:link,
+.a9v0ne {
+  color: var(--nord5) !important;
+}
+
+/* Input box for tracking number */
+.KV9Duc {
+  background: var(--nord1) !important;
+  border-color: var(--nord2) !important;
+}
+
+/* Input text */
+.j4XGJe {
+  color: var(--nord4) !important;
+}
+
+/* Track package button */
+.bbCbFe.bbCbFe {
+  border-color: var(--nord9) !important;
+}
+
+.DKlyaf {
+  background: var(--nord10) !important;
+}
+
+.bbCbFe.bbCbFe span {
+  color: var(--nord6) !important;
+}
+
+/* After clicking, link dropdown link colors */
+.Gr43w {
+  color: var(--nord4) !important;
+}
+
+/* ANCHOR Mathematics */
+/* A bunch of tags on the top of the page */
+.HskPDe {
+  background: var(--nord0) !important;
+}
+
+/* Description on the left side */
+.wx62f {
+  color: var(--nord4) !important;
+}
+
+/* Selector on the left side */
+.iFBpgc .LfE12c.iqv4K .MjJo9 {
+  background: var(--nord3) !important;
+}
+
+/* "People also ask", "Videos", etc. title color */
+.JNkvid .HnYYW {
+  color: var(--nord4) !important;
+}
+
+/* Border at "More results" */
+.Jb0Zif .lPubzd {
+  border-color: var(--nordRare) !important;
+}
+
+/* Panels to the right */
+.IVvPP .cLjAic:not(.WY0eLb),
+.Hwkikb:not(.WY0eLb) {
+  background: var(--nord1) !important;
+  border-color: var(--nord2) !important;
+}
+
+/* Line on bottom of dropdown */
+.Jb0Zif .qDOt0b,
+.IVvPP .qDOt0b {
+  border-color: var(--nordRare) !important;
+}
+
+/* Share button */
+.m0RhYb {
+  color: var(--nord4) !important;
+}
+
+/* Window that opens when you click share button */
+.NJfJb {
+  background: var(--nord2) !important;
+}
+
+/* "Email" link */
+.DQc04b {
+  color: var(--nord8) !important;
+}
+
+/* Share Link */
+.ydMLRd {
+  color: var(--nord4) !important;
+}
+
+/* Share title */
+.aNrSe {
+  color: var(--nord5) !important;
+}
+
+/* Definitions - "See definition in..." */
+.YrbPuc,
+.qHx7jd {
+  color: var(--nord4) !important;
+}
+
+/* Topic boxes */
+.BYb9Nc {
+  background: var(--nord1) !important;
+  border-color: var(--nord2) !important;
+}
+
+/* Topic id */
+.mQo3nc {
+  background: rgba(0, 0, 0, 0) !important;
+}
+
+/* ANCHOR Reviews */
+
+/* ANCHOR "People also search for" */
+/* The title */
+.eJ7tvc {
+  color: var(--nord4) !important;
+}
+
+/* Border color */
+.AUiS2 {
+  border-color: var(--nord1) !important;
+}
+
+/* Close button */
+.XCKyNd {
+  filter: invert(1) !important;
 }
